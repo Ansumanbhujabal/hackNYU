@@ -8,12 +8,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCcstEWaVhbpVWbMMx0lamuQCi2YtRLLS8",
-  authDomain: "hacknyu-233b7.firebaseapp.com",
-  projectId: "hacknyu-233b7",
-  storageBucket: "hacknyu-233b7.appspot.com",
-  messagingSenderId: "1037169014520",
-  appId: "1:1037169014520:web:32badc436b8ad64c11ed0d",
+  apiKey: "AIzaSyDgONKfyjKZX4rnYl8OJtzGtCdRVg_UdZo",
+  authDomain: "mentalhealth-dc71c.firebaseapp.com",
+  projectId: "mentalhealth-dc71c",
+  storageBucket: "mentalhealth-dc71c.appspot.com",
+  messagingSenderId: "591883839895",
+  appId: "1:591883839895:web:244ae3243f85e04d3cbcd2",
+  measurementId: "G-KYPH205VBY",
 };
 
 // Initialize Firebase
